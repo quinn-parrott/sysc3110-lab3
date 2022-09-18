@@ -36,10 +36,6 @@ public class BuddyInfo {
     }
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
-
-        BuddyInfo buddyInfo = new BuddyInfo("Homer", "123 Bank St", "911");
-        System.out.print("Hello ");
-        System.out.println(buddyInfo.getName());
+        System.out.println("Address Book");
     }
 }
